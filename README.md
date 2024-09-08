@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hato ^_^ Yuze Here
 
-<!--
-**HatoYuze/HatoYuze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/img.png"/>
 
-Here are some ideas to get you started:
+**As of now**, I am still a student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Studying _Kotlin, Rust_
+
+_If there is any bug in my project, please contact me immediately_
+### Overall Status
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HatoYuze&show_icons=true&icon_color=096790&title_color=096790)    
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HatoYuze&layout=compact&title_color=096790&hide=javascript,html,css)   
+
+---
+![img_2.png](img_2.png)
